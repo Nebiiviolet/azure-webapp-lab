@@ -52,4 +52,4 @@ jobs:
           app-name: 'Dane-Helloworld'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_791626617A164D1C998EADCD078434AD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_980AF3F3C69F402DAA9C95C747FC9435 }}
