@@ -52,4 +52,4 @@ jobs:
           app-name: 'Dane-testing'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C7E577B3D1C74EA38F767148F5CC501C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3FB6403263DB4813A332E6AF4F283797 }}
